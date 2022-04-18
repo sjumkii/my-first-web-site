@@ -2,7 +2,7 @@ body{
   margin:0;
 }
 a {
-  color:black;
+  color:powderblue;
   text-decoration: none;
 }
  h1 {
@@ -13,7 +13,6 @@ a {
   padding: 20px;
 }
 ol{
-
   border-right: 1px solid gray;
   width:100px;
   margin: 0;
